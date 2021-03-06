@@ -1,6 +1,6 @@
 public class SLList2 {
 
-    private static class IntNode {
+    private class IntNode {
         public int item;
         public IntNode next;
 
